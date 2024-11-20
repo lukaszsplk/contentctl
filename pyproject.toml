@@ -2,7 +2,7 @@
 name = "contentctl"
 version = "4.4.6"
 
-description = "Splunk Content Control Tool"
+description = "UEBA Splunk Content Control Tool"
 authors = ["STRT <research@splunk.com>"]
 license = "Apache 2.0"
 readme = "README.md"
