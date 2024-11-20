@@ -4,7 +4,7 @@
 <img src="docs/contentctl_logo_white.png" title="In case you're wondering, it's a capybara" alt="contentctl logo" width="250" height="250"></p>
 
 # contentctl Quick Start Guide
-If you are already familiar with contentctl, the following common commands may be very useful for basic operations
+If you are already familiar with contentctl, the following common commands may be very useful for basic operations -> 
 
 | Operation | Command |
 |-----------|---------|
